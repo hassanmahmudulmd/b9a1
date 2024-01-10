@@ -1,0 +1,470 @@
+#m{
+   width: 1600px;
+   height: 7335px;
+   background: #FFF;
+   /* text-align: center; */
+   
+}
+.hw{
+    background-image: url(resources/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    border-radius: 16px;  
+    margin-left: 140px; 
+    margin-right: 140px;
+    margin-top: 50px;
+}
+
+#banner1{
+    color:#FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 177px 561px 0px 500px;
+}
+#banner2{
+    width: 632px;
+    height: 190px;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    padding-left: 314px;
+    padding-right:374px ;
+}
+#off{
+    text-align: center;
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 120px;
+}
+#better{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 48px;
+}
+
+#all{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.center{
+    text-align: center;
+}
+#wc{
+    
+    background-image: url(resources/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    margin-left: 140px; 
+    margin-right: 140px;
+    margin-top: 50px;
+}
+#welcome{
+    width: 642px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px; /* 137.5% */
+    letter-spacing: 7.04px;
+    padding: 126px 552px 24px 126px;
+}
+#text{
+    width: 697px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+    padding-left: 126px;
+}
+#join{
+    background-color: transparent;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding:48px 1059px 142px 158px ;
+    
+}
+
+
+.red{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+#joinnow{
+    align-items: center;
+    justify-content: center;
+    padding: 16px 32px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    display: inline-flex;
+    margin: 48px 577px 110px 700px;
+    gap: 10px;
+    border-radius: 8px; 
+    background: #F00;
+}
+.section {
+    position: relative;
+}
+
+.background-svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1; 
+}
+
+.text-container {
+    position: relative; 
+    z-index: 1; 
+    text-align: center;
+    padding: 100px 386px 0px 385px;
+}
+#datetime{
+    text-align: center;
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+#newoffer{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal; 
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 104px;
+    margin-right: 256px;
+    margin-left: 140px;
+    margin-bottom: 16px;
+}
+#soon{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-left: 140px;
+    margin-bottom: 22px;
+}
+#dolor{
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-left: 140px;
+}
+#cborder{
+    width: 463px;
+    height: 463px;
+    flex-shrink: 0;
+    border-radius: 463px;
+    border: 15px solid #F00;
+    
+}
+#circle{
+    margin: 49.1px;
+    width: 364.844px;
+    height: 364.844px;
+    flex-shrink: 0;
+    border-radius: 364.844px;
+    background: url(<path-to-image>), lightgray -91.279px 0px / 150.038% 100% no-repeat;
+    
+}
+
+#year{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 118.33px;
+    margin-top: 112px;
+    margin-bottom: 16px;
+}
+#dolor2{
+    width: 276px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+    margin-left: 118.33px;
+    margin-bottom: 43px;
+
+}
+#svgimage{
+    width: 140px;
+    height: 140px;
+    flex-shrink: 0;
+    margin-left: 118.33px;
+    
+}
+#flex{
+    
+    display: flex;
+}
+.text-div {
+    text-align: center;
+  }
+  
+  .text-div-title {
+      color: #070211;
+  
+      font-family: Inter;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+  }
+  .text-div-heading {
+    margin: 0;
+    font-size: 72px;
+    font-weight: 900;
+  }
+  .text-div-heading span {
+    color: red;
+  }
+  
+  .text-div-paragraph {
+    color: rgba(7, 2, 17, 0.6);
+  
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+  }
+  
+  .image-div {
+    position: relative;
+    display: flex;
+    text-align: end;
+  }
+  .image1 {
+    position: absolute;
+    top: 5%;
+    z-index: 1;
+  }
+  
+  .image2 {
+    position: absolute;
+    top:30%;
+    left: 50%;
+    z-index: 1;
+  }
+  
+  img {
+    height: auto;
+    display: block;
+  }
+#products{
+    width: 1600px;
+    margin-top: 120px;
+    margin-left: 140px;
+}
+#gift{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    height: 29px;
+    width: 192px;
+    margin-bottom: 16px;
+}
+#awesome{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    height: 60px;
+    width: 566px;
+    margin-bottom: 22px;
+}
+#donor3{
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+    margin-bottom: 48px;
+
+}
+#mail{
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+    margin-top: 120px;
+    margin-left: 140px;
+}
+#email{
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+    padding-top: 80px;
+    padding-left: 585px;
+    padding-right: 585px;
+    padding-bottom: 40px;
+   
+}
+#subscriber{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 22px;
+}
+#dolor4{
+    margin-left: 212px;
+    margin-right: 212px;
+    width: 896px;
+    height: 64px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+}
+#button{
+    margin: 48px 336px 80px 336px;
+    width: 648px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #FFF;
+}
+#last{
+    width: 1600px;
+height: 609px;
+flex-shrink: 0;
+background: #070211;
+padding:  120px 140px 120px 140px;
+}
+#add{
+    width: 375px;
+    height: 80px;
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
+#phone{
+    width:195px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+#website{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
+.adress{
+    display: inline;
+}
+#cpadding{
+    margin-top: 48px;
+}
+#contact{
+    text-align: center;
+    width: 64px;
+    height: 64px;
+    flex-shrink: 0;
+    padding-left:500px;
+    margin-top: 298px;
+    display: inline;
+}
+#rights{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+#Un{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
